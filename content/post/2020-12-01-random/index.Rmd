@@ -1,0 +1,23 @@
+---
+title: Random
+author: Bryan
+date: '2020-12-01'
+slug: random
+categories:
+  - R
+tags: []
+description: ''
+---
+
+askfhasofaweifawikvi
+[Link to project 1](/project1.rmd/)
+
+[Link to google](https://www.google.com)
+```{r}
+print("hello world")
+```
+
+```{py}
+print("hi")
+```
+
